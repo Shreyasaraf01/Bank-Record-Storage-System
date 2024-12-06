@@ -44,7 +44,8 @@ To run this project locally, follow these steps:
 
 6. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit
+   pip install blockchain
 
 ## Running the Application
 Once everything is set up, you can run the application using the following command:
